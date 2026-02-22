@@ -179,7 +179,5 @@ MIT License
 Developed with ❤️ to make personal finance smarter, simpler, and AI-powered.
 
 
-If you want, I can now also give you:
-- README badges version (with shields.io badges)
-- Enterprise-level polished version
-- Resume/portfolio optimized short version
+
+
