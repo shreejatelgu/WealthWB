@@ -5,7 +5,7 @@ WealthWB is a modern, full-stack budgeting and personal finance management platf
 Built using **Next.js**, **Supabase**, and **Inngest**, WealthWB combines scalability, automation, and AI-driven intelligence with a clean and responsive UI powered by **Tailwind CSS** and **Shadcn UI**.
 
 ---
-
+https://wealthwbb-o9lwlrbqr-shreejatelgus-projects.vercel.app/
 ## 🚀 Current Features
 
 ### 📊 Smart Expense Tracking
