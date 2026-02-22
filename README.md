@@ -1,6 +1,6 @@
-# 💰 WealthWB – AI-Powered Finance Platform
+# 💰 MoneyHi – AI-Powered Finance Platform
 
-WealthWB is a modern, full-stack budgeting and personal finance management platform designed to simplify financial tracking and empower smarter money decisions.
+Moneyhi is a modern, full-stack budgeting and personal finance management platform designed to simplify financial tracking and empower smarter money decisions.
 
 Built using **Next.js**, **Supabase**, and **Inngest**, WealthWB combines scalability, automation, and AI-driven intelligence with a clean and responsive UI powered by **Tailwind CSS** and **Shadcn UI**.
 
